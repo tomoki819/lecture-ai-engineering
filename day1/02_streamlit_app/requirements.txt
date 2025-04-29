@@ -1,0 +1,12 @@
+streamlit
+torch
+transformers
+pandas
+nltk
+scikit-learn
+accelerate
+janome
+pyngrok
+streamlit-webrtc
+git+https://github.com/openai/whisper.git
+ffmpeg-python
